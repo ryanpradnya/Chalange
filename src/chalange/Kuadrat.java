@@ -7,7 +7,7 @@ package chalange;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
+import java.util.List; 
 
 /**
  *
@@ -15,19 +15,6 @@ import java.util.List;
  */
 public class Kuadrat {
 
-//    static int a[] = new int[1000];
-//    static int akar,angka;
-//    static boolean check(int i, int all[], int a){
-//        boolean check = false;
-//        if (i!=0) {
-//            for (int j = 0; j < i; j++) {
-//                if(all[j]==a){
-//                    check=true;
-//                }
-//            }
-//        }
-//        return check;
-//    }
     /**
      * @param args the command line arguments
      */
